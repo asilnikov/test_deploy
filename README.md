@@ -1,2 +1,2 @@
 # test_deploy
-test_deploy for wildfly $!
+test_deploy for wildfly 
